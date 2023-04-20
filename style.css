@@ -1,0 +1,21 @@
+.personal{
+position:absolute;
+float:left;
+margin-left: 20px;
+width: 400px;
+background-color: grey;
+top:50px;
+}
+.foto{
+position:relative;
+left:150px;
+top:50px;
+
+    height: 100px;
+}
+.aptitudes{
+
+    position:relative;
+    float:left;
+    left:600px;
+}
